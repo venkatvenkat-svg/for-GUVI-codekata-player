@@ -7,5 +7,3 @@ if(n<=20):
         for c in range(1,n+1):
             fact=fact*c
     print(fact)
-else:
-    print("no")
